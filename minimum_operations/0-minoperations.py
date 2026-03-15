@@ -5,7 +5,7 @@ Minimum Operations
 
 
 def minOperations(n):
-    """Return the minimum number of operations to reach n H characters"""    
+    """Return the minimum number of operations to reach n H characters"""
     if n <= 1:
         return 0
 
